@@ -1,5 +1,5 @@
 # Suggestions Bot
-Discord bot made for Freelancer Application @ Rollerite Studios
+Discord bot made for Freelancer Application 
 
 - all of the normal suggestion commands like suggest, accept-suggestion, and deny-suggestion.
 
