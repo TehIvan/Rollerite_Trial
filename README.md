@@ -11,3 +11,5 @@ Discord bot made for Freelancer Application @ Rollerite Studios
 - It should say if the suggestion is accepted or denied.
 
 Database chosen: MySQL
+
+https://www.youtube.com/watch?v=V-vIbDRysuo
