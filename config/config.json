@@ -1,0 +1,17 @@
+{
+    "guildId": "934365008022896660",
+    "embedSettings": {
+        "color": "Red",
+        "deniedSuggestionColor": "DarkRed",
+        "acceptedSuggestionColor": "Green",
+        "footer": {
+            "text": "Rollerite"
+        }
+    },
+    "suggestionCategories": {
+        "Minecraft": "1404804644869509191", 
+        "Discord": "1404804659763216498", 
+        "Website": "1404804674900459552", 
+        "Roblox": "1404804690260136058"
+    }
+}
