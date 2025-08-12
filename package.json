@@ -1,7 +1,7 @@
 {
-  "name": "candor_trial",
+  "name": "rollerite_trial",
   "version": "1.0.0",
-  "description": "Trial Bot for Candor Studios",
+  "description": "Trial Bot for Rollerite",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
