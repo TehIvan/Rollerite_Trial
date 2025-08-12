@@ -1,5 +1,4 @@
-# Suggestions Bot
-Discord bot made for Freelancer Application 
+# Suggestions Bot 
 
 - all of the normal suggestion commands like suggest, accept-suggestion, and deny-suggestion.
 
