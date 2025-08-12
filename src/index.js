@@ -1,5 +1,7 @@
 require("dotenv").config(process.cwd() + "/.env");
 
+process.on("uncaughtException", (err) => console.log(err));
+
 const { Client, Collection } = require("discord.js");
 const { loadCommands, loadEvents } = require("./utils/handler");
 const { createTables, getSuggestions } = require("./utils/sql");
